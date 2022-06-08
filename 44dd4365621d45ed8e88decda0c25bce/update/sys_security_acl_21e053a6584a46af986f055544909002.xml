@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record_update table="sys_security_acl">
+  <sys_security_acl action="INSERT_OR_UPDATE">
+    <active>true</active>
+    <admin_overrides>true</admin_overrides>
+    <advanced>false</advanced>
+    <condition/>
+    <description/>
+    <name>x_yunji_jet001_table01</name>
+    <operation>4f6cd29329dd4f428190fdb666801940</operation>
+    <script/>
+    <sys_class_name>sys_security_acl</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2022-06-08 18:37:02</sys_created_on>
+    <sys_effective>true</sys_effective>
+    <sys_id>21e053a6584a46af986f055544909002</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_name/>
+    <sys_package/>
+    <sys_policy/>
+    <sys_scope>44dd4365621d45ed8e88decda0c25bce</sys_scope>
+    <sys_update_name/>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2022-06-08 18:37:02</sys_updated_on>
+    <type>7e4393c4eac44e8eb32934f38fb9db0a</type>
+  </sys_security_acl>
+</record_update>
